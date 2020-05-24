@@ -19,5 +19,5 @@ A Las Vegas dice app. You can make the die roll at the press of a button or by s
 
 
 
-![App Preveiw](Documentation/dice_preview.gif)
+![App Preveiw](Documentation/dice_preview_small.gif)
 
